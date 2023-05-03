@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="LED">
+    <file>resources/indicator/off.png</file>
+    <file>resources/indicator/red.png</file>
+    <file>resources/indicator/green.png</file>
+  </qresource>
+  <qresource prefix="bg">
+    <file>resources/bg/cps_bg_dark.png</file>
+    <file>resources/bg/cps_frame_high.png</file>
+    <file>resources/bg/cps_frame.png</file>
+    <file>resources/bg/cps_bg.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>resources/icon.ico</file>
+    <file>resources/icon.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,48 @@
+Module-1:
+Detector 1 = 0.9494
+Detector 2 = 0.9888
+Module-2
+Detector 1 = 1.0593
+Detector 2 = 1.1925
+Module-3
+Detector 1 = 0.9145
+Detector 2 = 1.0003
+Module-4
+Detector 1 = 1.0782
+Detector 2 = 1.0719
+Module-5
+Detector 1 = 0.8270
+Detector 2 = 1.1380
+Module-6
+Detector 1 = 0.9092
+Detector 2 = 0.9792
+Module-7
+Detector 1 = 1.0603
+Detector 2 = 0.9720
+Module-8
+Detector 1 = 0.8262
+Detector 2 = 0.8602
+Module-9
+Detector 1 = 1.0035
+Detector 2 = 1.2697
+Module-10
+Detector 1 = 0.9991
+Detector 2 = 1.1463
+Module-11
+Detector 1 = 0.8246
+Detector 2 = 0.7669
+Module-12
+Detector 1 = 1.48
+Detector 2 = 1.57
+Module-13
+Detector 1 = 0.8905
+Detector 2 = 1.0649
+Module-14
+Detector 1 = 1.1863
+Detector 2 = 0.9638
+Module-15
+Detector 1 = 0.8805
+Detector 2 = 0.9256
+Module-16
+Detector 1 = 1
+Detector 2 = 1

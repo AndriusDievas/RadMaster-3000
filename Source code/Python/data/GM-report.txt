@@ -1,0 +1,9 @@
+G.M. Module counting results:
+
+Module-15
+Detector 1: 34.0 counts
+Detector 2: 40.0 counts
+
+Count time: 30 seconds
+
+Performed on: 2023-04-24 22:03:42
